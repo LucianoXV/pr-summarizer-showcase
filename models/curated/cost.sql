@@ -1,1 +1,1 @@
-
+select * from curated.invoice
