@@ -1,1 +1,1 @@
-select * from cost
+select * from cost;
